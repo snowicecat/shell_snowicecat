@@ -1,0 +1,3 @@
+inputPosition: 1024
+outputPosition: 2
+Yanminkuan: /media/psf/Home/Desktop/shell_snowicecat% 
